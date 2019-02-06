@@ -1,6 +1,6 @@
 # Hardware Debugging Tools
 
-![Project Image](images/logic_level_analysis.png)
+![Project Image](images/logic_level_analysis_banner.png)
 
 I’ve used an Oscilloscope on multiple occasions for debugging and tuning simple analog circuits, like signal filters, and harmonic oscillators.
 I’ve used a multimeter, usually for testing continuity, checking voltages, and detecting bad components.

@@ -18,6 +18,10 @@
 
 + [Synopsis](skills/baremetal_development/baremetal_development_30sec.md)
 
+### Hardware Debugging Tools
+
++ [Synopsis](skills/hardware_debugging_tools/hardware_debugging_tools_30sec.md)
+
 ### Template Skill
 
 + [Synopsis](skills/skill_templates/skill_template_30sec.md)
